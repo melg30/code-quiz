@@ -1,0 +1,106 @@
+body {
+  margin: 20px auto;
+  background-image: url("blueBrick.jpg");
+  margin: 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", "Geneva", Verdana, sans-serif;
+}
+
+.col-md {
+  margin: 10px auto;
+  padding: 5px;
+  color: #ffffff;
+}
+#container {
+  width: 50%;
+  background-color: lightblue;
+  color: #ffffff;
+  margin: 40px auto;
+  padding: 20px;
+}
+h1 {
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  color: #ffffff;
+  opacity: 1;
+}
+.btn-primary {
+  margin: 0 auto;
+  padding: 10px;
+  background-color: darkslateblue;
+  border-color: darkslateblue;
+  text-align: center;
+  opacity: 1;
+}
+#highScoreLink {
+  color: #ffffff;
+  size: 18px;
+}
+ul {
+  margin: 0 auto;
+}
+#game {
+  margin: 0 auto;
+  text-align: center;
+}
+#Timer {
+  margin: 0 auto;
+  text-align: center;
+}
+.timer {
+  margin: 0 auto;
+  text-align: center;
+}
+#input {
+  text-align: center;
+}
+#inputField {
+  margin: 10px auto;
+  padding: 20px;
+  text-align: center;
+  color: #ffffff;
+  background-color: darkslateblue;
+}
+#nameButton {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.submitName {
+  margin: 0 auto;
+}
+p {
+  margin: 10px auto;
+  text-align: center;
+  color: #ffffff;
+  size: 18px;
+}
+
+.questions {
+  color: #ffffff;
+  size: 18px;
+}
+button {
+  padding: 10px;
+  margin: 0 auto;
+  background-color: darkslateblue;
+  color: #ffffff;
+}
+#high-score {
+  margin: 0 auto;
+}
+
+a {
+  color: #ffffff;
+}
+
+a:visited {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:link {
+  color: #ffffff;
+  text-decoration: none;
+}
