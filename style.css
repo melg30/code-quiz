@@ -37,9 +37,7 @@ h1 {
   color: #ffffff;
   size: 18px;
 }
-ul {
-  margin: 0 auto;
-}
+
 #game {
   margin: 0 auto;
   text-align: center;
@@ -67,9 +65,6 @@ ul {
   text-align: center;
 }
 
-.submitName {
-  margin: 0 auto;
-}
 p {
   margin: 10px auto;
   text-align: center;
@@ -87,20 +82,7 @@ button {
   background-color: #088897;
   color: #ffffff;
 }
-#high-score {
-  margin: 0 auto;
-}
-
-/* a {
-  color: #ffffff;
-}
 
 a:visited {
   color: #ffffff;
-  text-decoration: none;
 }
-
-a:link {
-  color: #ffffff;
-  text-decoration: none;
-} */

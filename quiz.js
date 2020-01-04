@@ -102,7 +102,9 @@ function gameEnd() {
   nameArea.appendChild(nameBtn);
   nameBtn.addEventListener("click", function() {
     // save in local storage
-    alert("Score is now saved! Go to High Scores to view your score");
+    alert(
+      "Your score is now saved! Check out High scores to see where you stand."
+    );
     var HighScore = JSON.parse(localStorage.getItem("High Scores")) || [];
     console.log(HighScore);
 
