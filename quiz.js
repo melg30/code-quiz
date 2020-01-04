@@ -59,7 +59,7 @@ function nextQuestion() {
       choice.setAttribute("value", questions[currentQ].choices[i]);
       choice.setAttribute(
         "style",
-        "margin:20 auto; color:white; background-color:darkslateblue; text-align:center;"
+        "margin:20 auto; color:white; background-color:#088897; text-align:center;"
       );
       choice.onclick = verify;
       areagame.appendChild(choice);
@@ -97,7 +97,7 @@ function gameEnd() {
   nameBtn.setAttribute("class", "btn btn-secondary");
   nameBtn.setAttribute(
     "style",
-    "color:#ffffff; padding:20px; background-color:darkslateblue"
+    "color:#ffffff; padding:20px; background-color:#088897"
   );
   nameArea.appendChild(nameBtn);
   nameBtn.addEventListener("click", function() {

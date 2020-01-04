@@ -28,8 +28,8 @@ h1 {
 .btn-primary {
   margin: 0 auto;
   padding: 10px;
-  background-color: darkslateblue;
-  border-color: darkslateblue;
+  background-color: #088897;
+  border-color: #088897;
   text-align: center;
   opacity: 1;
 }
@@ -59,8 +59,8 @@ ul {
   margin: 10px auto;
   padding: 20px;
   text-align: center;
-  color: #ffffff;
-  background-color: darkslateblue;
+  color: black;
+  background-color: white;
 }
 #nameButton {
   margin-top: 20px;
@@ -73,7 +73,7 @@ ul {
 p {
   margin: 10px auto;
   text-align: center;
-  color: #ffffff;
+  color: black;
   size: 18px;
 }
 
@@ -84,14 +84,14 @@ p {
 button {
   padding: 10px;
   margin: 0 auto;
-  background-color: darkslateblue;
+  background-color: #088897;
   color: #ffffff;
 }
 #high-score {
   margin: 0 auto;
 }
 
-a {
+/* a {
   color: #ffffff;
 }
 
@@ -103,4 +103,4 @@ a:visited {
 a:link {
   color: #ffffff;
   text-decoration: none;
-}
+} */
